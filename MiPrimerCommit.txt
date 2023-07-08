@@ -1,0 +1,6 @@
+Este es un archivo que irá en el commit
+
+;-|
+
+Así que ya lo tienes :-p
+
